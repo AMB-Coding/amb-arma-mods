@@ -1,8 +1,8 @@
 steamid,name,directory
 1673456286,3CB Factions,@3CB_Factions
 623475643,3den Enhanced,@3den_Enhanced
-773131200,ACE Compat - RHS Armed Forces of the Russian Federation,@ACE_Compat-RHSAFRF
-773125288,ACE Compat - RHS United States Armed Forces,@ACE_Compat-RHSUSAF
+773131200,ACE Compat - RHS AFRF,@ACE_Compat-RHSAFRF
+773125288,ACE Compat - RHS USAF,@ACE_Compat-RHSUSAF
 884966711,ACE Compat - RHS: GREF,@ACE_Compat-RHSGREF
 2174495332,ACE Compat - RHS: SAF,@ACE_Compat-RHSSAF
 1200145989,ACE3 - BWMod Compatibility,@ACE3-BWMod_Compatibility
@@ -17,6 +17,7 @@ steamid,name,directory
 820924072,BackpackOnChest,@BackpackOnChest
 1314910827,Breaching Charge,@Breaching_Charge
 1508895664,BundesPolizei und Spezialeinheiten,@BundesPolizei_und_Spezialeinheiten
+450814997,CBA_A3,@CBA_A3
 837729515,CH View Distance,@CH_View_Distance
 1375890861,CUP ACE3 Compatibility Addon - Terrains,@CUP_ACE3_Compatibility_Addon-Terrains
 583496184,CUP Terrains - Core,@CUP_Terrains-Core
@@ -25,7 +26,6 @@ steamid,name,directory
 686802825,Eden Objects,@Eden_Objects
 333310405,Enhanced Movement,@Enhanced_Movement
 2034363662,Enhanced Movement Rework,@Enhanced_Movement_Rework
-770418577,Splendid Smoke,@Splendid_Smoke
 1961695597,Expansion Mod - CBRN,@Expansion_Mod-CBRN
 1109237932,Extended Fortifications Mod,@Extended_Fortifications_Mod
 2231150238,Freestyles Crash Landing,@Freestyles_Crash_Landing
@@ -42,8 +42,8 @@ steamid,name,directory
 1508091616,Metis Marker,@Metis_Marker
 1208517358,NIArms All in One,@NIArms_All_in_One
 1770265310,No More Aircraft Bouncing,@No_More_Aircraft_Bouncing
-701300272,PLP Urban Packs: Barriers and Fences,@PLP_Urban_Packs_Barriers_and_Fences
 504690333,PLP Containers,@PLP_Containers
+701300272,PLP Urban Packs: Barriers and Fences,@PLP_Urban_Packs_Barriers_and_Fences
 1637178799,PMC Vehicles Mod,@PMC_Vehicles_Mod
 612930542,RDS Civilian Pack,@RDS_Civilian_Pack
 2060904217,RHRM [REAL HERO's RAGDOLL MOD],@RHRM
@@ -56,6 +56,7 @@ steamid,name,directory
 1527410521,"Rosche, Germany",@Rosche_Germany
 1368857262,Ruha,@Ruha
 708931058,SSD Death Screams 2.1,@SSD_Death_Screams
+770418577,Splendid Smoke,@Splendid_Smoke
 1598087521,Summa,@Summa
 825174634,Suppress,@Suppress
 2430905589,TacControl,@TacControl
