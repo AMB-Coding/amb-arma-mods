@@ -1,16 +1,11 @@
 steamid,name,directory
 623475643,3den Enhanced,@3den_Enhanced
-773131200,ACE Compat - RHS Armed Forces of the Russian Federation,@ACE_Compat-RHSAFRF
-773125288,ACE Compat - RHS United States Armed Forces,@ACE_Compat-RHSUSAF
-708250744,ACEX,@ACEX
+773131200,ACE Compat - RHS AFRF,@ACE_Compat-RHSAFRF
+773125288,ACE Compat - RHS USAF,@ACE_Compat-RHSUSAF
 751965892,ACRE2,@ACRE2
 2450980898,ACRE2 S.O.G. Prairie Fire Compatibility,@ACRE2_SOG_Prairie_Fire_Compatibility
 2303560068,AMB Mission Maker Media Mod,@AMB_Mission_Maker_Media_Mod
 2324367550,AMB Mission Maker Module,@AMB_Mission_Maker_Module
-723217262,Achilles,@Achilles
-713709341,Advanced Rappelling,@Advanced_Rappelling
-615007497,Advanced Sling Loading,@Advanced_Sling_Loading
-639837898,Advanced Towing,@Advanced_Towing
 730310357,Advanced Urban Rappelling,@Advanced_Urban_Rappelling
 903134884,Align,@Align
 820924072,BackpackOnChest,@BackpackOnChest
@@ -20,6 +15,7 @@ steamid,name,directory
 1638341685,DUI - Squad Radar,@DUI-Squad_Radar
 686802825,Eden Objects,@Eden_Objects
 333310405,Enhanced Movement,@Enhanced_Movement
+2034363662,Enhanced Movement Rework,@Enhanced_Movement_Rework
 2231150238,Freestyles Crash Landing,@Freestyles_Crash_Landing
 1224892496,Gruppe Adler Trenches,@Gruppe_Adler_Trenches
 825172265,Immerse,@Immerse
@@ -29,11 +25,11 @@ steamid,name,directory
 887302721,Paddle Mod,@Paddle_Mod
 2060904217,RHRM [REAL HERO's RAGDOLL MOD],@RHRM
 843425103,RHSAFRF,@RHSAFRF
-1978754337,RHSPKL,@RHSPKL
 843577117,RHSUSAF,@RHSUSAF
 1678490017,RSPN Cave Systems for Eden,@RSPN_Cave_Systems_for_Eden
 2127693591,Real Engine,@Real_Engine
 708931058,SSD Death Screams 2.1,@SSD_Death_Screams
+770418577,Splendid Smoke,@Splendid_Smoke
 2430905589,TacControl,@TacControl
 943001311,Unsung,@Unsung
 510031102,Werthles' Headless Module,@Werthles_Headless_Module
