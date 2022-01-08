@@ -1,16 +1,7 @@
 steamid,name,directory
-893328083,3CB BAF Equipment,@3CB_BAF_Equipment
-893346105,3CB BAF Units,@3CB_BAF_Units
-1135539579,3CB BAF Units (ACE compatibility),@3CB_BAF_Units_ACE_compatibility
-1135541175,3CB BAF Units (RHS compatibility),@3CB_BAF_Units_RHS_compatibility
-893349825,3CB BAF Vehicles,@3CB_BAF_Vehicles
-1515851169,3CB BAF Vehicles (RHS reskins),@3CB_BAF_Vehicles_RHS_reskins
-1135543967,3CB BAF Vehicles (Servicing extension),@3CB_BAF_Vehicles_Servicing_extension
-893339590,3CB BAF Weapons,@3CB_BAF_Weapons
-1515845502,3CB BAF Weapons (RHS ammo compatibility),@3CB_BAF_Weapons_RHS_ammo_compatibility
 1673456286,3CB Factions,@3CB_Factions
-773131200,ACE Compat - RHS Armed Forces of the Russian Federation,@ACE_Compat-RHSAFRF
-773125288,ACE Compat - RHS United States Armed Forces,@ACE_Compat-RHSUSAF
+773131200,ACE Compat - RHS AFRF,@ACE_Compat-RHSAFRF
+773125288,ACE Compat - RHS USAF,@ACE_Compat-RHSUSAF
 884966711,ACE Compat - RHS: GREF,@ACE_Compat-RHSGREF
 751965892,ACRE2,@ACRE2
 450814997,CBA_A3,@CBA_A3
@@ -20,7 +11,6 @@ steamid,name,directory
 843425103,RHSAFRF,@RHSAFRF
 843593391,RHSGREF,@RHSGREF
 843577117,RHSUSAF,@RHSUSAF
-1661066023,RKSL Studios - Attachments v3.02,@RKSL_Studios-Attachments
 1703187116,VET_Unflipping,@VET_Unflipping
 1779063631,Zeus Enhanced,@Zeus_Enhanced
 2018593688,Zeus Enhanced - ACE3 Compatibility,@Zeus_Enhanced-ACE3_Compatibility
