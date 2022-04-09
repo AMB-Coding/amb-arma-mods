@@ -6,7 +6,6 @@ steamid,name,directory
 773125288,ACE Compat - RHS USAF,@ACE_Compat-RHSUSAF
 884966711,ACE Compat - RHS: GREF,@ACE_Compat-RHSGREF
 2174495332,ACE Compat - RHS: SAF,@ACE_Compat-RHSSAF
-1200145989,ACE3 - BWMod Compatibility,@ACE3-BWMod_Compatibility
 751965892,ACRE2,@ACRE2
 2303560068,AMB Mission Maker Media Mod,@AMB_Mission_Maker_Media_Mod
 2324367550,AMB Mission Maker Module,@AMB_Mission_Maker_Module
@@ -28,11 +27,10 @@ steamid,name,directory
 686802825,Eden Objects,@Eden_Objects
 333310405,Enhanced Movement,@Enhanced_Movement
 2034363662,Enhanced Movement Rework,@Enhanced_Movement_Rework
-1961695597,Expansion Mod - CBRN,@Expansion_Mod-CBRN
+1962090730,Expansion Mod - Gendarmerie,@Expansion_Mod-Gendarmerie
 1109237932,Extended Fortifications Mod,@Extended_Fortifications_Mod
 1910457930,Fapovo Island,@Fapovo_Island
 2231150238,Freestyles Crash Landing,@Freestyles_Crash_Landing
-1274710579,Gendarmerie_Luke,@Gendarmerie_Luke
 2140453587,GRAD Civilians,@GRAD_Civilians
 1412917989,HEBONTES MILITARY TRAINING GROUND,@HEBONTES_MILITARY_TRAINING_GROUND
 1291778160,Hellanmaa,@Hellanmaa
@@ -48,7 +46,7 @@ steamid,name,directory
 2315104187,NATO Winter Faction [by MALLINGA],@NATO_Winter_Faction
 1425442364,Napf Island A3,@Napf_Island_A3
 1969191445,Napf Winter - Snowfall,@Napf_Winter-Snowfall
-1208517358,NIArms All in One,@NIArms_All_in_One
+2595680138,NIArms All In One (V14 Onwards),@NIArms_All_in_One_v14_Onwards
 1770265310,No More Aircraft Bouncing,@No_More_Aircraft_Bouncing
 504690333,PLP Containers,@PLP_Containers
 701300272,PLP Urban Packs: Barriers and Fences,@PLP_Urban_Packs_Barriers_and_Fences
@@ -84,6 +82,7 @@ steamid,name,directory
 1875281645,ILBE Assault Pack - Rewrite,@ILBE_Assault_Pack-Rewrite
 894678801,Task Force Arrowhead Radio (BETA!!!),@Task_Force_Arrowhead_Radio_BETA
 1703187116,VET_Unflipping,@VET_Unflipping
+2633537792,ACE Compat - SOG,@ACE_Compat-SOG
 2450980898,ACRE2 S.O.G. Prairie Fire Compatibility,@ACRE2_SOG_Prairie_Fire_Compatibility
 887302721,Paddle Mod,@Paddle_Mod
 1678490017,RSPN Cave Systems for Eden,@RSPN_Cave_Systems_for_Eden
@@ -94,3 +93,12 @@ steamid,name,directory
 1376867375,ACE Interaction Menu Expansion,@ACE_Interaction_Menu_Expansion
 1740990569,ACRE2 Global Mobilization Compatibility,@ACRE2_Global_Mobilization_Compatibility
 1284731930,Global Mobilization - Demo Vehicle,@Global_Mobilization-Demo_Vehicle
+713709341,Advanced Rappelling,@Advanced_Rappelling
+2111525684,BWI - Pindad SS2 Series,@BWI-Pindad_SS2_Series
+2207252113,Indonesia Armed Forces,@Indonesia_Armed_Forces
+1451755886,Max_Women,@Max_Women
+501552467,NATO_Rus_Vehicle,@NATO_Rus_Vehicle
+1312457117,Pook ARTY Pack,@Pook_ARTY_Pack
+2696778402,Project PMC,@Project_PMC
+1252091296,Tembelan Island,@Tembelan_Island
+2575841565,Tiger,@Tiger
