@@ -9,15 +9,15 @@ steamid,name,directory
 2174495332,ACE Compat - RHS: SAF,@ACE_Compat-RHSSAF
 751965892,ACRE2,@ACRE2
 1740990569,ACRE2 Global Mobilization Compatibility,@ACRE2_Global_Mobilization_Compatibility
-730310357,Advanced Urban Rappelling,@Advanced_Urban_Rappelling
-903134884,Align,@Align
 2303560068,AMB Mission Maker Media Mod,@AMB_Mission_Maker_Media_Mod
 2324367550,AMB Mission Maker Module,@AMB_Mission_Maker_Module
+730310357,Advanced Urban Rappelling,@Advanced_Urban_Rappelling
+903134884,Align,@Align
 1446500688,Angola Maps v1.3,@Angola_Maps
+1200127537,BWMod,@BWMod
 820924072,BackpackOnChest,@BackpackOnChest
 743968516,Beketov,@Beketov
-1314910827,Breaching Charge,@Breaching_Charge
-1200127537,BWMod,@BWMod
+2820127143,Breach,@Breach
 450814997,CBA_A3,@CBA_A3
 837729515,CH View Distance,@CH_View_Distance
 1375890861,CUP ACE3 Compatibility Addon - Terrains,@CUP_ACE3_Compatibility_Addon-Terrains
@@ -32,10 +32,10 @@ steamid,name,directory
 1910457930,Fapovo Island,@Fapovo_Island
 2699465073,Fire Support Plus,@Fire_Support_Plus
 2231150238,Freestyles Crash Landing,@Freestyles_Crash_Landing
+1354112941,GRAD Sling Helmet,@GRAD_Sling_Helmet
 1284731930,Global Mobilization - Demo Vehicle,@Global_Mobilization-Demo_Vehicle
 2443033998,Global Mobilization Extra - Chernarussian Movement of the Red Star,@Global_Mobilization_Extra-Chernarussian_Movement_of_the_Red_Star
 2142888772,Global Mobilization LDF,@Global_Mobilization_LDF
-1354112941,GRAD Sling Helmet,@GRAD_Sling_Helmet
 1224892496,Gruppe Adler Trenches,@Gruppe_Adler_Trenches
 1291778160,Hellanmaa,@Hellanmaa
 825172265,Immerse,@Immerse
@@ -74,4 +74,3 @@ steamid,name,directory
 1779063631,Zeus Enhanced,@Zeus_Enhanced
 2018593688,Zeus Enhanced - ACE3 Compatibility,@Zeus_Enhanced-ACE3_Compatibility
 463939057,ace,@ace
-1379304937,dzn Extended Jamming,@dzn_Extended_Jamming

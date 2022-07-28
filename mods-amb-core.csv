@@ -1,7 +1,6 @@
 steamid,name,directory
 1673456286,3CB Factions,@3CB_Factions
 623475643,3den Enhanced,@3den_Enhanced
-2398904634,AAF Winter Faction [by MALLINGA],@AAF_Winter_Faction
 773131200,ACE Compat - RHS AFRF,@ACE_Compat-RHSAFRF
 773125288,ACE Compat - RHS USAF,@ACE_Compat-RHSUSAF
 884966711,ACE Compat - RHS: GREF,@ACE_Compat-RHSGREF
@@ -15,19 +14,19 @@ steamid,name,directory
 1537973181,Anizay,@Anizay
 1200127537,BWMod,@BWMod
 820924072,BackpackOnChest,@BackpackOnChest
-1314910827,Breaching Charge,@Breaching_Charge
+2820127143,Breach,@Breach
 1508895664,BundesPolizei und Spezialeinheiten,@BundesPolizei_und_Spezialeinheiten
 450814997,CBA_A3,@CBA_A3
 837729515,CH View Distance,@CH_View_Distance
-2361001257,CSAT Winter Faction [ STA|G.Drunken ],@CSAT_Winter_Faction
 1375890861,CUP ACE3 Compatibility Addon - Terrains,@CUP_ACE3_Compatibility_Addon-Terrains
 583496184,CUP Terrains - Core,@CUP_Terrains-Core
 583544987,CUP Terrains - Maps,@CUP_Terrains-Maps
+2189592034,Ctab Devastator Edition,@Ctab_Devastator_Edition
 1638341685,DUI - Squad Radar,@DUI-Squad_Radar
 686802825,Eden Objects,@Eden_Objects
 333310405,Enhanced Movement,@Enhanced_Movement
 2034363662,Enhanced Movement Rework,@Enhanced_Movement_Rework
-1962090730,Expansion Mod - Gendarmerie,@Expansion_Mod-Gendarmerie
+1962090730,Expansion Mod | Gendarmerie | 2035,@Expansion_Mod-Gendarmerie-2035
 1109237932,Extended Fortifications Mod,@Extended_Fortifications_Mod
 1910457930,Fapovo Island,@Fapovo_Island
 2231150238,Freestyles Crash Landing,@Freestyles_Crash_Landing
@@ -37,20 +36,22 @@ steamid,name,directory
 825172265,Immerse,@Immerse
 413463022,Improved Grenades,@Improved_Grenades
 708278910,Island Panthera,@Island_Panthera
-1866738558,Khoramshahr (Beta),@Khoramshahr_Beta
+520618345,Jbad,@Jbad
 1858075458,LAMBS_Danger.fsm,@LAMBS_Danger
 1858070328,LAMBS_RPG,@LAMBS_RPG
 1808238502,LAMBS_Suppression,@LAMBS_Suppression
 1862208264,LAMBS_Turrets,@LAMBS_Turrets
+909547724,LYTHIUM,@LYTHIUM
 1508091616,Metis Marker,@Metis_Marker
-2315104187,NATO Winter Faction [by MALLINGA],@NATO_Winter_Faction
+736829758,Military Gear Pack,@Military_Gear_Pack
+779520435,Multi-play Uniforms,@Multi-play_Uniforms
 1425442364,Napf Island A3,@Napf_Island_A3
-1969191445,Napf Winter - Snowfall,@Napf_Winter-Snowfall
 2595680138,NIArms All In One (V14 Onwards),@NIArms_All_in_One_v14_Onwards
+1400566170,NIArms All in One- ACE Compatibility,@NIArms_All_in_One-ACE_Compatibility
+2801060088,Niakala,@Niakala
 1770265310,No More Aircraft Bouncing,@No_More_Aircraft_Bouncing
 504690333,PLP Containers,@PLP_Containers
 701300272,PLP Urban Packs: Barriers and Fences,@PLP_Urban_Packs_Barriers_and_Fences
-1637178799,PMC Vehicles Mod,@PMC_Vehicles_Mod
 612930542,RDS Civilian Pack,@RDS_Civilian_Pack
 2060904217,RHRM [REAL HERO's RAGDOLL MOD],@RHRM
 843425103,RHSAFRF,@RHSAFRF
@@ -74,4 +75,3 @@ steamid,name,directory
 1779063631,Zeus Enhanced,@Zeus_Enhanced
 2018593688,Zeus Enhanced - ACE3 Compatibility,@Zeus_Enhanced-ACE3_Compatibility
 463939057,ace,@ace
-1379304937,dzn Extended Jamming,@dzn_Extended_Jamming
